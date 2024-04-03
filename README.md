@@ -27,19 +27,19 @@ Our project proposes a novel solution to overcome communication barriers by conv
 ## Screenshots
 
 ### Homepage
-![Homepage](homepage.png)
+![Homepage](homepage.png.png)
 
 ### Signup Page
-![Signup Page](signup.png)
+![Signup Page](signup.png.png)
 
 ### Login Page
-![Login Page](login.png)
+![Login Page](login.png.png)
 
 ### Converter Page
-![Converter Page](converter.png)
+![Converter Page](converter.png.png)
 
 ### Output Generated
-![Output Generated](output.png)
+![Output Generated](output.png.png)
 
 ## Contributor
 
